@@ -304,13 +304,5 @@ Ce chapitre permet de :
 - adopter une approche **scalable et maintenable**
 - se rapprocher des standards professionnels
 
-➡️ Prochaine étape possible :
 
-- Chapitre 3 – Terraform + Environnements (dev / staging / prod)
-- Chapitre 3 – Terraform + Remote State
-- Chapitre 3 – Terraform + CI/CD
-
----
-
-💬 Ce chapitre correspond exactement à ce qui est attendu d’un **Ingénieur DevOps** en mission ou en projet long.
 
