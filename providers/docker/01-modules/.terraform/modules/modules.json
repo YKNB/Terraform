@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"adminer","Source":"./modules/adminer","Dir":"modules/adminer"},{"Key":"network","Source":"./modules/network","Dir":"modules/network"},{"Key":"postgres","Source":"./modules/postgres","Dir":"modules/postgres"},{"Key":"web","Source":"./modules/web","Dir":"modules/web"}]}
